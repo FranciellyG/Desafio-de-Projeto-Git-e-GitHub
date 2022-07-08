@@ -23,5 +23,7 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="Teste-01" height="30" width="40" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
+  <img aling="center" alt="Teste-01" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
+  
+   <a ref= "https://instagram.com/franciellygeronimo" target="_blank"> <img aling="center" alt="Teste-01" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
   </div>
