@@ -17,13 +17,6 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 
 ##
 
-<div>
-  <a ref= "https://instagram.com/franciellygeronimo" target-"_blank"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" target-"_blank"></a>
-</div>
-
-
-<div style="display: inline_block"><br>
-  <img aling="center" alt="Teste-01" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
-  
-   <a ref= "https://instagram.com/franciellygeronimo" target="_blank"> <img aling="center" alt="Teste-01" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
+  <a href= "https://web.dio.me/users/franciellygeronimo?tab=achievements" target="_blank"> <img aling="center" alt="Teste-01" height="30" width="30" src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj">
+  <a href= "https://instagram.com/franciellygeronimo" target="_blank"> <img aling="center" alt="Teste-01" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
   </div>
