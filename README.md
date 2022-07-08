@@ -11,7 +11,7 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 
 [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
 
-## Santander Code Girls | Aula Inaugural 07/07/2022
+## 🔸Santander Code Girls | Aula Inaugural 07/07/2022
 [Link Santander Code Girls | Aula Inaugural](https://www.youtube.com/watch?v=RVtfpPQm7YI)
 
 
