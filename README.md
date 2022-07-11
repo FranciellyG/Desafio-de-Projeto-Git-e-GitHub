@@ -14,6 +14,9 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 ## 🔸Santander Code Girls | Aula Inaugural 07/07/2022
 [Link Santander Code Girls | Aula Inaugural](https://www.youtube.com/watch?v=RVtfpPQm7YI)
 
+## 🔸Azul JDKs
+[Link Download Azul JDKs](https://www.azul.com/downloads/?package=jdk)
+
 
 
 ##
