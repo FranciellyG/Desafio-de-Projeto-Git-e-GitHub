@@ -17,6 +17,9 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 ## 🔸Azul JDKs
 [Link Download Azul JDKs](https://www.azul.com/downloads/?package=jdk)
 
+##🔸IntelliJ IDEA
+[Link Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
+
 
 
 ##
